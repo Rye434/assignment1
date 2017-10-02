@@ -1,0 +1,13 @@
+input{
+    border-color:black;
+}
+li{
+    list-style: none;
+}
+span{
+    font-size: 2em;
+    margin-right: 1em;
+}
+#email{
+    font-size: 1.5em;
+}
